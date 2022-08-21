@@ -24,5 +24,5 @@ LINE_UID =
 2. Subtraction: a - b
 3. Multiplication: a * b
 4. Division: a / b
-(Please separate three of them with space)
+(Please separate three of them with spaces)
 ```
