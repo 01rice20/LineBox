@@ -61,7 +61,8 @@ sudo service influxdb start
   #note test1 + 1000 (income)
   #note test2 - 200  (expenses)
   
-2. Report (List all items): #report
+2. Report (List all items): 
+  #report
 
 3. Delete the item: 
   #delete all (delete all your items)
