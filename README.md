@@ -57,12 +57,15 @@ sudo service influxdb start
 
 ## How to record
 ```
-1. Note (Track your expenses, Please separate four of them with spaces): #note test1 + 1000 (income)
-                               #note test2 - 200  (expenses)
+1. Note (Track your expenses, Please separate four of them with spaces): 
+  #note test1 + 1000 (income)
+  #note test2 - 200  (expenses)
 2. Report (List all items): #report
-3. Delete the item: #delete all (delete all your items)
-                    #delete [num] (All items got a number, enter the number shown on #report)
-4. Check out your daily/weekly/monthly cost (Default is 1 day): #sum 1d (check today's balence)
-                                                                #sum 7d (check this week's balence)
-                                                                #sum 30d (check this month's balence)
+3. Delete the item: 
+  #delete all (delete all your items)
+  #delete [num] (All items got a number, enter the number shown on #report)
+4. Check out your daily/weekly/monthly cost (Default is 1 day): 
+  #sum 1d (check today's balence)
+  #sum 7d (check this week's balence)
+  #sum 30d (check this month's balence)
 ```
